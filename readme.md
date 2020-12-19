@@ -1,0 +1,1 @@
+Alguns testes animando imagens SVG com CSS
